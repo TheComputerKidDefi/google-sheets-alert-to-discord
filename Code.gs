@@ -5,7 +5,7 @@
 
 function onEdit(e) {
   // Set a comment on the edited cell to indicate when it was changed.
-  var discordUrl = discord_webhook;
+  var discordUrl = https://discord.com/api/webhooks/1139321943078748201/I6VmJ53yGXPxlwmS-zTqHvBePqU7aeuq23CqCmwo7jHKTy266JZLPHmLgTdMCphQlefY;
 
   const range = e.range;
 
